@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  weather forecast
 //
-//  Created by Lifoma Salaam on 1/31/16.
-//  Copyright © 2016 Lifoma Salaam. All rights reserved.
+//  Created by Cesa Salaam on 1/31/16.
+//  Copyright © 2016 Cesa Salaam. All rights reserved.
 //
 
 import UIKit
